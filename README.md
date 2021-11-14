@@ -19,3 +19,4 @@
 ### Пример запуска
 
 `node my_ciphering_cli.js -c "C1-C0-C1" -i ./input.txt -o ./output.txt`
+`node my_ciphering_cli.js --config "R1-A-C0" --input ./input.txt`
